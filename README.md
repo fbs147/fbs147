@@ -1,4 +1,4 @@
-My name is **Ben-Shu Fan(范本澍)**. I am currently pursuing a PhD degree in the Department of Physics at Tsinghua University, and my research interest lies in the field of **condensed matter physics**.
+My name is **Ben-Shu Fan**. I am currently pursuing a PhD degree in the Department of Physics at Tsinghua University, and my research interest lies in the field of **condensed matter physics**.
 
 Especially, I am currently working on the following topics:
 * **Light-matter Interaction**:
